@@ -16,9 +16,9 @@ Player information:
   Any ".PDF" viewer
 
 Packing list:
-  [README](https://github.com/nsonnenf/IITSEC2023/blob/main/README.md)
-  [Supplemental-Material_23396.pdf](https://github.com/nsonnenf/IITSEC2023/blob/main/Supplemental-Material_23396.pdf)
-  [LICENSE](https://github.com/nsonnenf/IITSEC2023/blob/main/LICENSE)
-
+  [README](https://github.com/nsonnenf/IITSEC2023/blob/main/README.md)<br>
+  [Supplemental-Material_23396.pdf](https://github.com/nsonnenf/IITSEC2023/blob/main/Supplemental-Material_23396.pdf)<br>
+  [LICENSE](https://github.com/nsonnenf/IITSEC2023/blob/main/LICENSE)<br>
+<br>
 Contact information:
   nathan.sonnenfeld@ucf.edu
