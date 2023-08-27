@@ -6,7 +6,7 @@ Description:
     APPENDIX B: DESIGN PRINCIPLES, FEATURES, & RATIONALE. This appendix includes additional information the design principles and instructional features for XR simulations based in the concept of episodic memory (Table 2).
 
 Size:
-  329 KB
+  336 KB
 
 Player information:
   Any ".PDF" viewer
